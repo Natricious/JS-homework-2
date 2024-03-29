@@ -38,7 +38,7 @@ for (const key in person) {
     console.log(key + ': ' + person[key]);
 }
 
-// 6. დაწერეთ მასივი fruits ელემენტებით ["Apple", "Banana", "Orange"]; დაბეჭდეთ მასივის თითოეული წევრი.
+// 6. დაწერეთ მასივი fruits ელემენტებით ["Apple", "Banana", "Orange"]; დაბეჭდეთ მასივის თითოეული წევრი
 let fruits = ["Apple", "Banana", "Orange"];
 for (const _fruit in fruits) {
     console.log(fruits[_fruit]);
